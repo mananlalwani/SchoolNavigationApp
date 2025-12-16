@@ -1,4 +1,4 @@
- This is a Jetpack Compose App for my first-semester mobile applications class. It is a prototype of a Google Maps-style navigation between rooms on the second floor of our school. This was a collaborative project, yet I was the main developer behind most of the project. 
+ This is a Jetpack Compose App for my first-semester Mobile Apps class (Fall 2024). It is a prototype of a Google Maps-style navigation between rooms on the second floor of our school.
 
  Technologies Used:  
   - Jetpack Compose
@@ -6,5 +6,4 @@
   - Git/Github
   - Android Studio
   - ImageMagick
-  - Trello
   - Linux
